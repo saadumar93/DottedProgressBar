@@ -7,7 +7,7 @@
 //
 
 import Foundation
-
+//
 struct DottedBarAnimationQueue {
     
     var queue = [DottedBarAnimation]()
